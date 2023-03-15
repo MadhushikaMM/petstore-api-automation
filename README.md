@@ -6,7 +6,7 @@ Pre-requitesites
 
 Clone and Run the project
 --------------------------
-1. Copy the repositary url under the MadhushikaMM/petstore-api-suite ---> https://github.com/MadhushikaMM/petstore-api-suite.git
+1. Copy the repositary url under the MadhushikaMM/petstore-api-suite ---> https://github.com/MadhushikaMM/petstore-api-automation.git
 2. Open it from VS code
 3. Open new window
 6. by selecting Ctrl + shift + P open command palet
