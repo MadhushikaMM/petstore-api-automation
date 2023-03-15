@@ -1,0 +1,23 @@
+{
+  "name": "petstore-api-suite",
+  "version": "1.0.0",
+  "description": "This includes sample api test cases for swagger petstore API",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "api",
+    "cypress",
+    "test"
+  ],
+  "author": "madhushika110@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.0",
+    "cypress-mochawesome-reporter": "^3.3.0"
+  },
+  "dependencies": {
+    "chai-json-schema": "^1.5.1"
+  }
+}
