@@ -27,4 +27,4 @@ Only automated the Severity Critical test cases as those are highly impacted to 
 
 To Install Chai Assertions 
 ------------------------
-Run command--> npm install chai-jason-schema
+Run command--> npm install chai-json-schema
